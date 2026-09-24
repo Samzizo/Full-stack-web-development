@@ -419,5 +419,5 @@ Sample: `curl http://127.0.0.1:5000/quizzes -X POST -H "Content-Type: applicatio
 ```
 
 ## Authors
-**Odai Alsalieti** :blush: authored the API **(__init__.py)**, test suite **(test_flaskr.py)**, and this **README**.
+**Samiha Amroune** :blush: authored the API **(__init__.py)**, test suite **(test_flaskr.py)**, and this **README**.
 All other project files, including the models and frontend, were created by **Udacity** as a project template for the **Full Stack Web Developer Nanodegree**.
