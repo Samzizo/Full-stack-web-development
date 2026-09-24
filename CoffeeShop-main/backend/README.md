@@ -362,5 +362,5 @@ The frontend is hosted at `http://127.0.0.1:8100/`
 
 ## Authors
 
-**Odai Alsalieti** :blush: authored the API **(auth.py)**, test suite **(api.py)**, and this **README**.
+**Samiha Amroune** :blush: authored the API **(auth.py)**, test suite **(api.py)**, and this **README**.
 All other project files, including the models and frontend, were created by **Udacity** as a project template for the **Full Stack Web Developer Nanodegree**.
